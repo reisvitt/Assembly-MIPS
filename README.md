@@ -1,5 +1,4 @@
 # Assembly-MIPS
-
 São 4 programas em assembly para processadores MIPS
 
 01 - Função que retorna a quantidade de caracteres de uma frase digitada pelo usuário.
